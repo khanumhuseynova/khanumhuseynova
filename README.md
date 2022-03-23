@@ -1,4 +1,4 @@
-# Hi there, I'm Khanum! :wave:
+# Hi there, I'm Khanum!
 [![Linkedin: KhanumHuseynova](https://img.shields.io/badge/-KhanumHuseynova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://https://www.linkedin.com/in/khanum-huseynova-a03b09143)](https://www.linkedin.com/in/khanum-huseynova-a03b09143)
 [![GitHub Thaiane](https://img.shields.io/github/followers/khanumhuseynova?label=follow&style=social)](https://github.com/khanumhuseynova)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanumhuseynova&show_icons=true&theme=radical)
