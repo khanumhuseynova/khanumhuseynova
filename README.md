@@ -1,9 +1,13 @@
-# Hi there, I'm Khanum!
-[![Linkedin: KhanumHuseynova](https://img.shields.io/badge/-KhanumHuseynova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://https://www.linkedin.com/in/khanum-huseynova-a03b09143)](https://www.linkedin.com/in/khanum-huseynova-a03b09143)
-[![GitHub Thaiane](https://img.shields.io/github/followers/khanumhuseynova?label=follow&style=social)](https://github.com/khanumhuseynova)
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=khanumhuseynova&count_private=true&theme=tokyonight&showicons=true)
+# Hi there, I'm Khanum ! 
+
+[![Linkedin: khanum-huseynova](https://img.shields.io/badge/-khanum-huseynova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/akif-haciyev-1594351aa)](https://www.linkedin.com/in/khanum-huseynova-a03b09143)
+[![GitHub Thaiane](https://img.shields.io/github/followers/khanumhuseynova?label=follow&style=social)](https://github.com/AkifHaciyev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanumhuseynova&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanumhuseynova&layout=compact&theme=gotham&custom_title=Statistics)
+
 # Languages and Tools
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NodeJS"  width="26px" src="https://ijs.gallerycdn.vsassets.io/extensions/ijs/reactnextjssnippets/1.6.0/1604011628777/Microsoft.VisualStudio.Services.Icons.Default" />
