@@ -4,7 +4,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/khanumhuseynova?label=follow&style=social)](https://github.com/khanumhuseynova)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanumhuseynova&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanumhuseynova&layout=compact&theme=gotham&custom_title=Statistics)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanumhuseynova&theme=tokyonight)
 
 # Languages and Tools
 
